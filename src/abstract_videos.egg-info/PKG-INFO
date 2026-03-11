@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: abstract_videos
-Version: 0.0.0.258
+Version: 0.0.0.259
 Summary: abstract_videos
 Author: putkoff
 Author-email: partners@abstractendeavors.com
@@ -17,6 +17,7 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 Requires-Dist: abstract_utilities
 Requires-Dist: requests
+Requires-Dist: spacy
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier

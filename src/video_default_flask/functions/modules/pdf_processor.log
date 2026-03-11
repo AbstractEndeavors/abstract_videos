@@ -1,0 +1,50 @@
+2025-04-25 22:51:19,246 - 3432309 - INFO - SentenceTransformer.py - __init__ - Use pytorch device_name: cpu
+2025-04-25 22:51:19,247 - 3432309 - INFO - SentenceTransformer.py - __init__ - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-25 23:22:47,446 - 3454934 - INFO - SentenceTransformer.py - __init__ - Use pytorch device_name: cpu
+2025-04-25 23:22:47,446 - 3454934 - INFO - SentenceTransformer.py - __init__ - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-25 23:23:46,378 - 3455595 - INFO - SentenceTransformer.py - __init__ - Use pytorch device_name: cpu
+2025-04-25 23:23:46,378 - 3455595 - INFO - SentenceTransformer.py - __init__ - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-25 23:24:50,400 - 3455938 - INFO - SentenceTransformer.py - __init__ - Use pytorch device_name: cpu
+2025-04-25 23:24:50,400 - 3455938 - INFO - SentenceTransformer.py - __init__ - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-25 23:24:52,233 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,234 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,234 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,234 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,235 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,235 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,236 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,236 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,236 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,237 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,237 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,237 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,238 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,238 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,238 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,239 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,239 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,240 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,240 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:52,240 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,473 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,473 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:24:55,474 - 3455938 - WARNING - pdfpage.py - _parse_cropbox - CropBox missing from /Page, defaulting to MediaBox
+2025-04-25 23:25:30,110 - 3456273 - INFO - SentenceTransformer.py - __init__ - Use pytorch device_name: cpu
+2025-04-25 23:25:30,110 - 3456273 - INFO - SentenceTransformer.py - __init__ - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2

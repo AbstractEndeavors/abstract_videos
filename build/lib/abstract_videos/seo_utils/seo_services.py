@@ -1,7 +1,7 @@
 from abstract_ocr.text_utils import *
 from abstract_ocr.audio_utils import *
 from abstract_ocr.video_utils import *
-from abstract_ocr.functions import (logger,
+from abstract_ocr import (logger,
                         create_key_value,
                         os,
                         timestamp_to_milliseconds,

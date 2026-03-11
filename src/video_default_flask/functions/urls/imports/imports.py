@@ -1,0 +1,1 @@
+createinit -k py    mylib

@@ -1,0 +1,1 @@
+from abstract_ocr import extract_image_texts_from_directory
